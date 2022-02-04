@@ -1,0 +1,5 @@
+{
+    "extensions": {
+        "recommendations": ["denoland.vscode-deno"]
+      }
+}
