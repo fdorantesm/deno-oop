@@ -1,5 +1,5 @@
-import { Columns } from "./enums/columns.enum.ts";
-import { Card } from "./entities/card.ts";
+import { Columns } from "./kanban/enums/columns.enum.ts";
+import { Card } from "./kanban/entities/card.ts";
 
 const init = new Card();
 init.moveTo(Columns.IN_PROGRSS);
